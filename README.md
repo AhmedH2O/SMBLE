@@ -8,6 +8,8 @@ it has a lot of features (not all of the are implemented yet).
 To use this script you will submit a file with the disscussed format and
 it will generate a standard HTML file.
 
+If you are on github press the raw button in the top write to view the file right.
+
 To use this language you should choose the language :
     To choose a language use /// and the name of your language ///html
     (currently only supporting html, but css, php, and javascript is to be added in the 
